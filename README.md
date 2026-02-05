@@ -1,6 +1,6 @@
 # IR2136 — Aerial & Underwater Robots (2025–2026)
 
-This repository contains course work for **IR213X: Aerial & Underwater Robots**, with an emphasis on **end-to-end system integration**: simulation → GCS/HMI → networking/protocols → ROS integration → real vehicle.
+This repository contains course work for **IR2136: Aerial & Underwater Robots**, with an emphasis on **end-to-end system integration**: simulation → GCS/HMI → networking/protocols → ROS integration → real vehicle.
 
 ## Contents
 - **Lab 1** — Basic simulation with Ardupilot + QGroundControl (Live demo, plan uploaded)
