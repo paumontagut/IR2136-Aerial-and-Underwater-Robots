@@ -1,0 +1,25 @@
+# general
+.DS_Store
+*.log
+*.tmp
+*.swp
+__pycache__/
+*.pyc
+
+# Python venv / caches
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# ROS 2 / colcon
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# IDEs
+.vscode/
+.idea/
+
+# secrets
+.env
